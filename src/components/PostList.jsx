@@ -114,3 +114,4 @@ function PostList({ favorites, onToggleFavorite }) {
 }
 
 export default PostList;
+
